@@ -1,0 +1,37 @@
+# MarkDev
+
+> MarkDev is a premium, remote-first global digital agency that designs, builds, and grows high-performance websites, Shopify stores, custom web & Flutter apps, and full-funnel marketing (SEO, Google & Meta Ads, social, and conversion rate optimization). Positioning: Awwwards-grade craft fused with a measurable conversion and SEO engine. Tagline: Learn · Build · Grow.
+
+## Services
+
+### Build
+- [Full-Stack Web Development](https://markdev.agency/services/web-development): Fast, SEO-first websites and platforms in Next.js, React & TypeScript.
+- [Shopify & Shopify Plus Development](https://markdev.agency/services/shopify-development): Custom and headless (Hydrogen) commerce that converts.
+- [Custom Web Application Development](https://markdev.agency/services/web-applications): SaaS products, dashboards, and internal tools built to scale.
+- [Flutter App Development](https://markdev.agency/services/flutter-app-development): iOS & Android apps from a single codebase.
+- [Website Maintenance](https://markdev.agency/services/website-maintenance): Proactive care plans — monitoring, security, and improvements.
+- [Performance Optimization](https://markdev.agency/services/performance-optimization): Core Web Vitals and speed engineering.
+
+### Grow
+- [Digital Marketing](https://markdev.agency/services/digital-marketing): Full-funnel growth tied to revenue.
+- [SEO](https://markdev.agency/services/seo): Technical, content, and authority SEO that compounds.
+- [Google Ads](https://markdev.agency/services/google-ads): Profitable paid search, shopping, and Performance Max.
+- [Meta Ads](https://markdev.agency/services/meta-ads): Facebook & Instagram advertising that scales.
+- [Social Media Marketing](https://markdev.agency/services/social-media-marketing): Content, community, and growth.
+- [Conversion Rate Optimization](https://markdev.agency/services/conversion-rate-optimization): A/B testing and UX that lifts revenue.
+
+### Design
+- [UI/UX Design](https://markdev.agency/services/ui-ux-design): Research-led product and web design.
+- [Branding](https://markdev.agency/services/branding): Strategy-led identity that commands trust.
+- [Graphic Design](https://markdev.agency/services/graphic-design): On-brand creative for every channel.
+
+## Company
+- [Case Studies](https://markdev.agency/work): Outcome-led results (e.g. +63% revenue, 540% organic growth, 4.1x ROAS).
+- [Process](https://markdev.agency/process): Discover → Design → Build → Launch → Grow.
+- [Pricing](https://markdev.agency/pricing): Transparent engagement models — projects from $9k, retainers from ~$2.5k/mo.
+- [About](https://markdev.agency/about): Remote-first, senior team, 250+ projects, 12 countries served.
+- [Contact](https://markdev.agency/contact): Book a free discovery call.
+
+## Notes
+- Serves clients worldwide, including the US, UK, Canada, Australia, UAE, EU, and Singapore.
+- Contact: hello@markdev.agency
