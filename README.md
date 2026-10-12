@@ -1,5 +1,7 @@
 # MarkDev — Premium Digital Agency Website
 
+[![CI](https://github.com/Salman3ahmed3/claude-website-markdev/actions/workflows/ci.yml/badge.svg)](https://github.com/Salman3ahmed3/claude-website-markdev/actions/workflows/ci.yml)
+
 A production-ready, SEO-first agency website for **MarkDev** — built with Next.js 15, TypeScript, and Tailwind CSS v4. Designed to fuse **Awwwards-grade craft with a measurable conversion & SEO engine** — the strategic gap identified in the competitive research ([`RESEARCH.md`](./RESEARCH.md)).
 
 > **Tagline:** Learn · Build · Grow
@@ -66,8 +68,29 @@ Other scripts:
 npm run build        # production build (static generation)
 npm run start        # serve the production build
 npm run typecheck    # tsc --noEmit
-npm run lint         # next lint
+npm run lint         # next lint — not configured yet (ESLint is not installed)
 ```
+
+---
+
+## Continuous integration & dependencies
+
+Every pull request (and every push to the default branch) runs
+[`.github/workflows/ci.yml`](.github/workflows/ci.yml) on Node 22:
+
+```bash
+npm ci
+npm run typecheck
+npm run build
+```
+
+Linting is not part of CI yet because ESLint is not installed in this project.
+Add `eslint` + `eslint-config-next` and an ESLint config first, then add
+`npm run lint` to the workflow.
+
+Dependabot ([`.github/dependabot.yml`](.github/dependabot.yml)) opens weekly
+update PRs for npm packages and GitHub Actions; security updates are opened as
+soon as an alert has a fix.
 
 ---
 
